@@ -1,3 +1,3 @@
 CageCoin - Scrypt
 <br />
-<a href="http://www.cagecoin.com" target="_blank">CageCoin.com</a>
+<a href="http://www.cagecoin.net" target="_blank">cagecoin.net</a>
